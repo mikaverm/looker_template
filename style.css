@@ -54,14 +54,14 @@
   }
   
   th.headerCell {
-    background-color: #0057B8;
+    background-color: #0A378C;
     color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
   }
   
   .headerCell.dimension {
-    background-color: #0A378C;
+    background-color: #0057B8;
     border-right: 1px solid #BDC3C7; 
     color: white;
 
