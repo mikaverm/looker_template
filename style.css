@@ -120,7 +120,8 @@
   }
   
   .rowCell.merged {
-    background-color: #BDC3C7 !important;
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #BDC3C7;  
   }
   
   .indexCell.transposed {
