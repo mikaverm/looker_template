@@ -116,11 +116,11 @@
   .rowCell {
     vertical-align: super;
     padding-left: 5px; 
+    border-bottom: 1px solid #ffffff;
   }
   
   .rowCell.merged {
-    background-color: #ffffff !important;
-    border-bottom: 1px solid #BDC3C7;  
+    background-color: #ffffff !important;  
   }
   
   .indexCell.transposed {
